@@ -2,7 +2,7 @@ import uuid
 
 class Being:
     """
-    Being is the AIUS top-level class. Any class inherits from beings
+    Being is the AIUS top-level base class. Any class inherits from Beings
     """
     id = "Aius-Being"
     name = ""
