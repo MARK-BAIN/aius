@@ -86,6 +86,4 @@ aius tools kill {ids} OPTIONS
 
 ---
 
-> 👍 Liked&Agreed?
-> 🤔 Intrigued/Confused?<br>
 > 💬 Ask questions or discuss **CLI** with others on [Discord](https://discord.gg/cM6vFhJbWS)

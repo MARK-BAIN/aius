@@ -10,7 +10,7 @@ readme = "README.md"
 [tool.poetry.urls]
 Homepage = "https://aius.co"
 Repository = "https://github.com/markmbain/aius"
-# Documentation = "https://github.com/markmbain/aius/docs"
+Documentation = "https://docs.aius.co"
 
 [tool.poetry.dependencies]
 python = ">=3.8.1,<4.0"
@@ -26,6 +26,7 @@ pytest = "^8.3.2"
 
 [tool.poetry.scripts]
 aius = "aius.input_sensors.cli.console:AIUS"
+test = "tests.aius.test:main"
 
 [build-system]
 requires = ["poetry-core"]

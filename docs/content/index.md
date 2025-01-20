@@ -1,4 +1,5 @@
 # · AIUS docs ·
+### ℹ️ About
 ⚡ The long-term memory system for your AI, powering ... ⚡ 
 
 - 🥷 Superagents and 🤖 AI Agents
@@ -7,16 +8,17 @@
 
 ---
 
-### 🔗 Join the community
-- 💬 [Join Discord](https://discord.gg/cM6vFhJbWS)
-- 🐙 [Star & Fork on GitHub](https://github.com/markmbain/aius)
----
-
 ### 🚀 Getting Started
 ```bash
 # Install the repository
 pip install aius
 ```
+
+
+### 🔗 Join the community
+- 💬 [Join Discord](https://discord.gg/cM6vFhJbWS)
+- 🐙 [Star & Fork on GitHub](https://github.com/markmbain/aius)
+---
 
 ### 🤝 Contribute
 - 💬 [Join discord](https://discord.gg/cM6vFhJbWS) to chat about designs, contribution and use cases
@@ -37,5 +39,5 @@ poetry install --with dev
 
 ---
 
-# 📝 License
-MIT License, Copyright (c) 2024 Mark Bain
+### 📝 License
+MIT License, Copyright (c) 2024-2025 Mark Bain

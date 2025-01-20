@@ -13,7 +13,7 @@ theme:
   version: 6.2.0
 nav:
   - Getting started: index.md
-#  - Beings: beings/beings.md
+  - Beings: beings/beings.md
   - Input sensors:
       - CLI: input_sensors/cli/cli.md
 #      - Web servers: input_sensors/web_server.md
